@@ -3,7 +3,7 @@
 Mechatronics Engineer
 
 # 💫 About Me:
-Im currently learning JavaScrip, Node.js<br>Im about to finish university <br>Im mechatronics engenieer<br>Im looking to grow at the industry of development
+Im currently learning JavaScrip, Node.js<br>Im about to finish university <br>Im mechatronics engenieer
 
 
 ## 🌐 Socials:
