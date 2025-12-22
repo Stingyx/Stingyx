@@ -2,7 +2,7 @@
 
 Mechatronics Engineer
 
-# 💫 About Me:
+# About Me:
 Im currently learning JavaScrip, Node.js<br>Im about to finish university <br>Im mechatronics engenieer
 
 
