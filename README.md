@@ -1,5 +1,5 @@
-```markdown
-# Hi there 👋 I'm Javier García Cruz
+
+# I'm Javier García Cruz
 
 ### Full Stack Developer | Mechatronics Engineer
 
@@ -93,4 +93,3 @@ Currently focused on developing full-stack applications using **Python, FastAPI,
 ---
 
 ![](https://visitcount.itsvg.in/api?id=Stingyx&icon=5&color=6)
-```
