@@ -1,5 +1,5 @@
 
-# I'm Javier García Cruz
+# I'm Javier García 
 
 ### Full Stack Developer | Mechatronics Engineer
 
