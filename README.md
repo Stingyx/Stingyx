@@ -11,7 +11,7 @@ Actualmente enfocado en aplicaciones full-stack con **Python, FastAPI, PostgreSQ
 
 -  Construyendo aplicaciones web desde cero, backend y frontend
 -  Backend developer enfocado en Python & FastAPI (async, SQLAlchemy, Alembic)
--  Frontend con React & Next.js, manejo de estado async con TanStack Query
+-  Frontend con React & Next.js.
 -  PostgreSQL con esquemas múltiples, migraciones versionadas
 -  Interesado en autenticación, autorización y diseño seguro de APIs
 -  Deploy, administración Linux y DevOps (PM2, Nginx, hardening de servidores)
@@ -43,7 +43,6 @@ Actualmente enfocado en aplicaciones full-stack con **Python, FastAPI, PostgreSQ
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
